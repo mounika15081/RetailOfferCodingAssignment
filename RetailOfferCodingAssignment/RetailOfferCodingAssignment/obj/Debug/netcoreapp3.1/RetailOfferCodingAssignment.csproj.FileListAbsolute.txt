@@ -1,0 +1,13 @@
+C:\Users\naray\source\repos\RetailOfferCodingAssignment\RetailOfferCodingAssignment\bin\Debug\netcoreapp3.1\RetailOfferCodingAssignment.exe
+C:\Users\naray\source\repos\RetailOfferCodingAssignment\RetailOfferCodingAssignment\bin\Debug\netcoreapp3.1\RetailOfferCodingAssignment.deps.json
+C:\Users\naray\source\repos\RetailOfferCodingAssignment\RetailOfferCodingAssignment\bin\Debug\netcoreapp3.1\RetailOfferCodingAssignment.runtimeconfig.json
+C:\Users\naray\source\repos\RetailOfferCodingAssignment\RetailOfferCodingAssignment\bin\Debug\netcoreapp3.1\RetailOfferCodingAssignment.runtimeconfig.dev.json
+C:\Users\naray\source\repos\RetailOfferCodingAssignment\RetailOfferCodingAssignment\bin\Debug\netcoreapp3.1\RetailOfferCodingAssignment.dll
+C:\Users\naray\source\repos\RetailOfferCodingAssignment\RetailOfferCodingAssignment\bin\Debug\netcoreapp3.1\RetailOfferCodingAssignment.pdb
+C:\Users\naray\source\repos\RetailOfferCodingAssignment\RetailOfferCodingAssignment\obj\Debug\netcoreapp3.1\RetailOfferCodingAssignment.csproj.AssemblyReference.cache
+C:\Users\naray\source\repos\RetailOfferCodingAssignment\RetailOfferCodingAssignment\obj\Debug\netcoreapp3.1\RetailOfferCodingAssignment.AssemblyInfoInputs.cache
+C:\Users\naray\source\repos\RetailOfferCodingAssignment\RetailOfferCodingAssignment\obj\Debug\netcoreapp3.1\RetailOfferCodingAssignment.AssemblyInfo.cs
+C:\Users\naray\source\repos\RetailOfferCodingAssignment\RetailOfferCodingAssignment\obj\Debug\netcoreapp3.1\RetailOfferCodingAssignment.csproj.CoreCompileInputs.cache
+C:\Users\naray\source\repos\RetailOfferCodingAssignment\RetailOfferCodingAssignment\obj\Debug\netcoreapp3.1\RetailOfferCodingAssignment.dll
+C:\Users\naray\source\repos\RetailOfferCodingAssignment\RetailOfferCodingAssignment\obj\Debug\netcoreapp3.1\RetailOfferCodingAssignment.pdb
+C:\Users\naray\source\repos\RetailOfferCodingAssignment\RetailOfferCodingAssignment\obj\Debug\netcoreapp3.1\RetailOfferCodingAssignment.genruntimeconfig.cache
